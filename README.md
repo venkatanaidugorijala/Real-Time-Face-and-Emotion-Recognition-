@@ -1,10 +1,10 @@
-# Real-Time-Face-and-Emotion-Recognition-
+# Real-Time-Face-and-Emotion-Recognition
 Leveraging Deep Learning and OpenCV for Enhanced Accuracy
 # Datasets:
-Face Dataset:
+# Face Dataset: (not included in the files)
 Custom dataset collected using a webcam for 400 grayscale images per person.
 
-# Emotion Dataset:
+# Emotion Dataset:(Pre trained model uploaded)
 Used a publicly available dataset with 7 emotion classes have 35,000 images: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.
 Training set: 28,821 images across 7 classes.
 Testing set: 7,066 images across 7 classes.
