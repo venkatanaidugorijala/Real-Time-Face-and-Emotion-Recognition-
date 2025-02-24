@@ -2,7 +2,7 @@
 Leveraging Deep Learning and OpenCV for Enhanced Accuracy
 # Datasets:
 # Face Dataset: (not included in the files)
-Custom dataset collected using a webcam for 400 grayscale images per person.
+Custom dataset collected using a webcam for 400 grayscale images per person. Python code is uploaded to capture images using the webcam.
 
 # Emotion Dataset:(Pre trained model uploaded)
 Used a publicly available dataset with 7 emotion classes have 35,000 images: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.
